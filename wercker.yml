@@ -8,7 +8,7 @@ dev:
         reload: true
 # Build definition test 1
 build:
-  # The steps that will be executed on build
+  # The steps that will be executed on builds.
   steps:
 
     # golint step!
